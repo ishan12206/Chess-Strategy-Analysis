@@ -16,7 +16,7 @@ class Alice:
 
     def play_move(self):
         """
-        Decide Alice's play style for the current round. Implement your strategy for 2a here.
+        Decide Alice's play style for the current round. Implement your strategy here.
          
         Returns: 
             0 : attack
